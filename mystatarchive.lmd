@@ -1,0 +1,1295 @@
+<!get Linkman 8 at http://www.outertech.com>
+
+<!You can change this file with any ASCII text editor, but please>
+<!be careful - don't forget to close the tags in the right order !>
+
+<lmd version="lmd68">
+
+<treeinfo>
+<tname>1111</tname>
+<add>310819170455</add>
+<save>140919230735</save>
+<user>vitaliy</user>
+<computer>VITALIYPC</computer>
+<selectednode>урок 7</selectednode>
+<lastnode>32</lastnode>
+<minrating>1</minrating>
+<maxrating>5</maxrating>
+<col1>$00000075</col1>
+<col2>$0028284F</col2>
+<col3>$00006A6A</col3>
+<col4>$005E0000</col4>
+<col5>$00274F00</col5>
+</treeinfo>
+<node type=folder>
+<tit>урок 1</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 1. Vvedenie_3</tit>
+<url>https://drive.google.com/open?id=1S5JcPO5-BAYQ75HYBnmiufkq55tSz2oE</url>
+<add>010919184727</add>
+<mod>010919184816</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Забавные баги / Блог компании ua-hosting.company / Хабр</tit>
+<url>https://habr.com/ru/company/ua-hosting/blog/244479/</url>
+<des>Баги — сленговое обозначение ошибки в системе или программе. Конечно, баг — это плохо. Искать баг — еще хуже. Они могут быть как безобидными (но назойливыми), так и весьма катастрофическими,...</des>
+<key>баги,microsoft,sims,siri,android,синий экран смерти,minecraft</key>
+<add>310819200342</add>
+<vis>310819200342</vis>
+<che>310819200344</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Список книг (по тестированию и не только) с отзывами | Жизнь - это движение! А тестирование - это жизнь :)</tit>
+<url>http://okiseleva.blogspot.com/2014/02/blog-post_6.html</url>
+<add>310819200342</add>
+<vis>310819200342</vis>
+<che>310819200343</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 2</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 2 Struktura kursa, obzor IT biznesa. Fazy protsessa razrabotki programmnogo obespecheniya. &nbsp;- kopiya</tit>
+<url>https://drive.google.com/open?id=1dlQKfI1NiPmSUz9i3T84A3--nPyWHj-m</url>
+<add>010919184831</add>
+<mod>010919184854</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Gartner: десять ключевых IT-тенденций 2015 года</tit>
+<url>https://3dnews.ru/903194</url>
+<des>В следующем году ожидается рост интереса потребителей к системам 3D-печати и носимым &nbsp;устройствам. Значительное влияние на развитие IT-отрасли окажут облачные вычисления и концепция «Интернет вещей». Кроме того, немаловажное внимание будет уделяться средствам обеспечения информационной безопасности</des>
+<key>gartner,it-рынок,тенденции,технологии,прогноз,аналитика</key>
+<add>310819200442</add>
+<vis>310819200442</vis>
+<che>310819200443</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>10 главных ИТ-трендов 2015 года | ubr.ua</tit>
+<url>https://ubr.ua/business-practice/personal-property/10-glavnyh-it-trendov-2015-goda-319965</url>
+<add>310819200442</add>
+<vis>310819200442</vis>
+<che>310819200443</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 3</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 3 Metodologii protsessa razrabotki programmnogo obespecheniya Vodopadnaya model, spiralnaya model, iterativnaya model (agile, scrum, xp), RUP, MSF. &nbsp;- kopiya</tit>
+<url>https://drive.google.com/open?id=1gNcF1emXxniRkPhJgwf6o37t4smlWwyI</url>
+<add>010919184914</add>
+<mod>010919184933</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Основополагающие принципы Agile-манифеста</tit>
+<url>http://www.agileukraine.org/2013/01/agile-manifesto-principles.html</url>
+<lcnt>1</lcnt>
+<add>310819200615</add>
+<vis>310819205000</vis>
+<che>310819200616</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Методология разработки Rational Unified Process (RUP) - начало, проектирование, построение, внедрение - Компания ДПГруп</tit>
+<url>http://www.dpgrup.ru/methodology-rup.htm</url>
+<add>310819200615</add>
+<vis>310819200615</vis>
+<che>310819200616</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Microsoft Solutions Framework — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/Microsoft_Solutions_Framework</url>
+<add>310819200615</add>
+<vis>310819200615</vis>
+<che>310819200616</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Методологии разработки программного обеспечения / Песочница / Хабр</tit>
+<url>https://habr.com/ru/sandbox/43802/</url>
+<add>310819200615</add>
+<vis>310819200615</vis>
+<che>310819200616</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 4</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 4 &nbsp;Analiz sushchestvuyushchikh modeley i metodov razrabotki. Rol i mesto QA v protsesse razrabotki programmnogo obespecheniya, testirovanie i QA.. </tit>
+<url>https://drive.google.com/open?id=1VtxXYE_SR2MHcYnw6jOrXNOasDfGZyFF</url>
+<add>010919184947</add>
+<mod>010919185001</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>(619) О том, кто такие QA инженеры и чем они занимаются. - YouTube</tit>
+<url>https://www.youtube.com/watch?v=SoEiarbb8vo</url>
+<des>Интервью с Евгением Ефимовым из DataART, который занимается QA(quality assurance). Женя рассказал нам что такое QA, из чего состоит данная область. Как проис...</des>
+<key>куа,DataArt,QA,тестирование,QA инженер,Евгений Ефимов,датаарт,quality assurance,айтишники,js,javascript,джаваскрипт,программирование,видеокурс,...</key>
+<add>310819200845</add>
+<vis>310819200845</vis>
+<che>310819200846</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>В чём разница между Тестированием и QA?</tit>
+<url>https://www.software-testing.ru/library/5-testing/90-------qa-?q=/library/5-testing/90-------qa-&amp;</url>
+<des>Software-Testing.Ru - портал специалистов по тестированию и обеспечению качества ПО</des>
+<key>software testing,quality assurance,QA,SQA,testing,testing job,test,тестирование ПО,тестирование программного обеспечения,тестирование,тест,обеспечение качества,качество,программная инженерия,тестировщик,книги по тестированию,конференция по тестированию,работа,учебные курсы по тестированию,тренинги по тестированию,курсы по тестированию ПО,тренинги по тестированию ПО,семинары по тестированию ПО,обучение тестированию ПО,вакансии тестировщик,резюме тестировщик,книги по тестированию,статьи по тестированию,новости тестирования,руководитель отдела тестирования,selenium,selenium ide,selenium 2.0,selenium webdriver,testcomplete,автоматизация тестирования,средства автоматизации тестирования,автоматизация процессов тестирования,ручное тестирование,функциональное тестирование,регрессионное тестирование,тестирование производительности,тестирование форум</key>
+<add>310819200845</add>
+<vis>310819200845</vis>
+<che>310819200846</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>QA и тестирование. В чем разница? – Настройка операционной деятельности ИТ компаний. Аудиты, заказные программы, улучшение процессов.</tit>
+<url>http://it-tuning.com/2011/08/22/qa-%d0%b8-%d1%82%d0%b5%d1%81%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2-%d1%87%d0%b5%d0%bc-%d1%80%d0%b0%d0%b7%d0%bd%d0%b8%d1%86%d0%b0/</url>
+<add>310819200845</add>
+<vis>310819200845</vis>
+<che>310819200846</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Методологии разработки программного обеспечения - каскадная разработка, итеративная разработка - Компания ДПГруп</tit>
+<url>http://www.dpgrup.ru/methodologies.htm</url>
+<add>310819200845</add>
+<vis>310819200845</vis>
+<che>310819200846</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 5-7 </tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 5 Vvedenie v testirovanie (chto takoe testirovanie, osnovnye printsipy testirovaniya...) </tit>
+<url>https://drive.google.com/open?id=1n3TEuqM249oJ3mqEJWuwnphk2nm55as8</url>
+<add>010919185018</add>
+<mod>010919185043</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 6 Teoriya testirovaniya, chast 1 (podkhod, tekhnologii, urovni)._1 (1)</tit>
+<url>https://drive.google.com/open?id=1z6dt4pRodZNfEYTDsA8422z_CVVaX18N</url>
+<add>010919185102</add>
+<mod>010919185125</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Что такое исследовательское тестирование? / Хабр</tit>
+<url>https://habr.com/ru/post/148479/</url>
+<des>И чем оно отличается от тестирования по сценариям (сценарного тестирования)<br>Этот пост является переводом статьи Джеймса Баха What is Exploratory Testing? Это первый перевод из серии статей Баха...</des>
+<key>qa,exploratory testing,James Bach</key>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201030</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Жизненный цикл тестирования ПО. Преимущества и основные шаги</tit>
+<url>https://xbsoftware.ru/blog/zhiznennyj-tsykl-testirovaniya-po-preimuschestva-shagi/</url>
+<des>Но как именно выглядит жизненный цикл тестирования ПО? Какие преимущества из тестирования могут извлечь заказчик и команда разработчиков?</des>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201029</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Тестирование - Виды Тестирования Программного Обеспечения</tit>
+<url>http://www.protesting.ru/testing/testtypes.html</url>
+<des>Виды тестирования программного обеспечения. Здесь Вы найдете описание основных видов тестирования - функциональные, не функциональные, а также связанные с изменениями, а также получите полезную информацию по их назначению и использованию при тестировании программного обеспечения.</des>
+<key>виды тестирование программное обеспечение тесты функциональное нефункциональное</key>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201029</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Тестирование программного обеспечения — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F</url>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201029</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>bugscatcher.net - This website is for sale! - bugscatcher Resources and Information.</tit>
+<url>http://ww1.bugscatcher.net/?sub1=24cc0446-cc12-11e9-814b-83422781ce82</url>
+<des>This website is for sale! bugscatcher.net is your first and best source for all of the information you’re looking for. From general topics to more of what you would expect to find here, bugscatcher.net has it all. We hope you find what you are searching for!</des>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201029</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Тестирование программного обеспечения - Software testing</tit>
+<url>http://www.protesting.ru/testing/</url>
+<des>Тестирование программного обеспечения. Описание видов и уровней тестирования. Основные документы и артефакты при тестировании программного обеспечения. Тест дизайн и многое другое.</des>
+<key>тесты виды уровни тестирование по программное обеспечение артефакты software testing</key>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201029</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Основные принципы в тестировании ПО / Тестирование ПО / Тестирование Программного Обеспечения</tit>
+<url>https://software-testing.org/testing/osnovnye-principy-v-testirovanii-po.html</url>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201028</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Классификация тестирования на уровни, виды и типы</tit>
+<url>https://webhamster.ru/mytetrashare/index/mtb0/1410498808fclssvq9e2</url>
+<des>MyTetra Share - Делитесь знаниями! Знания должны принадлежать всем.</des>
+<key>Компьютер,Программирование,Теория программирования,Конструирование и тестирование программного обеспечения - Лекции Циганенко В. Н.</key>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201030</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Семь принципов тестирования программ</tit>
+<url>http://it.icmp.ru/post/view/5738</url>
+<des>Ykt IT Community - сообщество IT-специалистов Якутска</des>
+<key>программирование,администратор,айти,якутск,саха,якутия,скачать,сеть,компьютеры,ит,виндовс,линух,репозиторий,programming,it,web,yakutsk,sakha,windows,linux,freebsd,говнокод,программист,java,c sharp</key>
+<add>310819201028</add>
+<vis>310819201028</vis>
+<che>310819201030</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 7</tit>
+<bro>5</bro>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 7 Teoriya testirovaniya, chast 2 (protsess, komponenty). _4</tit>
+<url>https://drive.google.com/open?id=1gGu20S6d31Tt9V6SEIMrQrlyhXdKk28U</url>
+<add>010919185136</add>
+<mod>010919185155</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Наш чеклист для фильтров на сайтах — Сибирикс</tit>
+<url>https://blog.sibirix.ru/2014/01/27/filters-checklist/</url>
+<des>Довольно часто на сайтах е-коммерса нас просят реализовать фильтры. Хороший фильтр — довольно дорогая игрушка.</des>
+<add>310819201301</add>
+<vis>310819201301</vis>
+<che>310819201302</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Метод попарного тестирования</tit>
+<url>https://software-testing.ru/library/testing/general-testing/1304-2011-03-29-10-48-22?q=/library/testing/general-testing/1304-2011-03-29-10-48-22&amp;</url>
+<des>Software-Testing.Ru - портал специалистов по тестированию и обеспечению качества ПО</des>
+<key>software testing,quality assurance,QA,SQA,testing,testing job,test,тестирование ПО,тестирование программного обеспечения,тестирование,тест,обеспечение качества,качество,программная инженерия,тестировщик,книги по тестированию,конференция по тестированию,работа,учебные курсы по тестированию,тренинги по тестированию,курсы по тестированию ПО,тренинги по тестированию ПО,семинары по тестированию ПО,обучение тестированию ПО,вакансии тестировщик,резюме тестировщик,книги по тестированию,статьи по тестированию,новости тестирования,руководитель отдела тестирования,selenium,selenium ide,selenium 2.0,selenium webdriver,testcomplete,автоматизация тестирования,средства автоматизации тестирования,автоматизация процессов тестирования,ручное тестирование,функциональное тестирование,регрессионное тестирование,тестирование производительности,тестирование форум</key>
+<add>310819201301</add>
+<vis>310819201301</vis>
+<che>310819201302</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Тестирование - Практическое применение техник тест дизайна при разработке тест кейсов</tit>
+<url>http://www.protesting.ru/testing/testdesign_practice.html</url>
+<des>Тест дизайн. Практическое применение техник тест дизайна при разработке тест кейсов</des>
+<key>практика техники тест дизайн кейсы шаблоны примеры анализ требования данные позитивный негативный all pairs pairwise Orthogonal Arrays Testing</key>
+<add>310819201301</add>
+<vis>310819201301</vis>
+<che>310819201302</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Что такое Граничные значения (Boundaries) и Эквивалентные классы (Equivalence partitioning) в Тестировании ПО? / Тестирование ПО / Тестирование Программного Обеспечения</tit>
+<url>https://software-testing.org/testing/granichnye-znacheniya-boundaries-i-ekvivalentnye-klassy-equivalence-partitioning-v-testirovanii-po.html</url>
+<add>310819201301</add>
+<vis>310819201301</vis>
+<che>310819201302</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Основные техники тест дизайна (Software Test Design Techniques) / Тестирование ПО / Тестирование Программного Обеспечения</tit>
+<url>https://software-testing.org/testing/osnovnye-tehniki-test-dizayna-software-test-design-techniques.html</url>
+<lcnt>1</lcnt>
+<add>310819201301</add>
+<vis>120919184307</vis>
+<che>310819201302</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 8</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 8 Defekty (zhiznennyy tsikl defekta, tipy defektov, opisanie defektov)_1</tit>
+<url>https://drive.google.com/open?id=1h65FZsVPP7aG39HE-7fj672N78QuPtGq</url>
+<lcnt>1</lcnt>
+<add>010919185220</add>
+<mod>010919185231</mod>
+<vis>010919191412</vis>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Альтернативная классификация багов</tit>
+<url>https://www.pvsm.ru/testirovanie/74166</url>
+<des>Любой тестировщик сталкивается по своей жизни с тьмой багов. Иногда их так много, что</des>
+<key>баги,классификация багов,тестирование,Тестирование IT-систем,Тестирование веб-сервисов,Тестирование мобильных приложений</key>
+<add>310819201558</add>
+<vis>310819201558</vis>
+<che>310819201559</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Как правильно выбрать severity для бага? | Курсы тестирования ПО Савастюк Натальи</tit>
+<url>https://www.software-testing.by/blog/bug-severity/</url>
+<des>Severity (критичность) бага выставляется после анализа двух факторов: насколько та область (модуль) приложения, в которой найден баг, важна для пользователя или</des>
+<key>Баг</key>
+<add>310819201558</add>
+<vis>310819201558</vis>
+<che>310819201600</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Defect Severity and Priority in Testing with Examples and Difference</tit>
+<url>https://www.softwaretestinghelp.com/how-to-set-defect-priority-and-severity-with-defect-triage-process/</url>
+<des>In this tutorial, you will learn Severity and Priority in testing with practical examples. Learn what is Defect Priority, What is Defect Severity, Difference between these, different levels with examples of each level.</des>
+<add>310819201558</add>
+<vis>310819201558</vis>
+<che>310819201600</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Техника написания хороших кратких Summary баг-репортов | Хроники детерминированности</tit>
+<url>http://svyatoslav.biz/education/bug-reports-summary/</url>
+<add>310819201558</add>
+<vis>310819201558</vis>
+<che>310819201559</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 9</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 9 Testy (tipy testov, organizatsiya testov, sozdanie testov) _2</tit>
+<url>https://drive.google.com/open?id=1C1LiMNm736tCnU0726VswasapaC3_LVC</url>
+<add>010919185245</add>
+<mod>010919185534</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Внедрение TestLink — основные шаги от идеи на внедрение до своего лого в отчетах / Хабр</tit>
+<url>https://habr.com/ru/post/234633/</url>
+<des>Завершив внедрение ТестЛинк в компании, где я сейчас работаю, решил рассказать про шаги, которые мне пришлось выполнить перед тем как начать создавать аккаунты пользователей (т.е. дать им доступ к...</des>
+<key>TestLink,ТестЛинк,системы управления тестами</key>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202236</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Что такое тест-кейс и как его писать | Жизнь - это движение! А тестирование - это жизнь :)</tit>
+<url>http://okiseleva.blogspot.com/2014/08/blog-post.html</url>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202237</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>33 тестера: Мысли об основах тест дизайна</tit>
+<url>http://33testers.blogspot.com/2013/07/blog-post_20.html</url>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202237</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Пишем максимально эффективный тест-кейс / Хабр</tit>
+<url>https://habr.com/ru/post/246463/</url>
+<des>Что такое тест-кейс?<br>Тест-кейс — это профессиональная документация тестировщика, последовательность действий направленная на проверку какого-либо функционала, описывающая как придти к фактическому...</des>
+<key>tutorial,тестирование сайта,тестирование веб-приложений,тестирование по,тестирование верстки</key>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202236</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Мелочь пузатая или Объем тест кейса против его содержательности | Normal testing</tit>
+<url>https://testitquickly.com/2013/12/06/kitsibushuri/</url>
+<des>Прошедшего 30 октября докладывался на Fun Confetqa.ru про то, как можно писать тест-кейсы если не божественно, то хотя бы грамотно. * * * В видео сохранились мелкие нестыковки в тексте, которые были допущены в истерике подготовки. В итоговой версии презентации они все исправлены. Также есть полноценный текстовый вариант доклада (благодарим Елену Коваленко за “Час та&amp;hellip;</des>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202236</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>BBST Test Design</tit>
+<url>http://www.testingeducation.org/BBST/testdesign/</url>
+<add>310819202235</add>
+<mod>010919185530</mod>
+<vis>310819202235</vis>
+<che>310819202236</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=folder>
+<tit>урок 9-12</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 10 Testirovanie slozhnykh programmnykh resheniy i kompleksnykh sistem. _1</tit>
+<url>https://drive.google.com/open?id=13X4unvAsfmQEJHAsYdz-Dhi_SgUSWvej</url>
+<add>010919185316</add>
+<mod>010919185327</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 11 Prakticheskoe zanyatie Napisanie testov, testirovanie, opisanie defektov (stul, okno...)._3</tit>
+<url>https://drive.google.com/open?id=1Cu58KCRzPICFwwFc5qRtlLSOObZvlW9C</url>
+<add>010919185359</add>
+<mod>010919185419</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 12 &nbsp;Prakticheskoe zanyatie 2 napisanie testov, testirovanie, opisanie defektov (stul, okno...). na spetsialnom prilozhenii. _2</tit>
+<url>https://drive.google.com/open?id=1tQKGMGvk1cAZ2wdha_IAt-zcSrOV9Ck6</url>
+<add>010919185431</add>
+<mod>010919185450</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>[Тестовое задание QA / Хабр] 31.08.2019 20:27</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Тестовое задание QA / Хабр</tit>
+<url>https://habr.com/ru/post/193902/</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202800</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Научная электронная библиотека</tit>
+<url>https://www.monographies.ru/ru/book/section?id=4632</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202759</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Глава 7. Тестирование систем</tit>
+<url>https://www.rus-lib.ru/book/38/men/21/3.7..html</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202759</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>НОУ ИНТУИТ | Лекция | Модульное и интеграционное тестирование</tit>
+<url>http://www.intuit.ru/studies/courses/48/48/lecture/1432?page=2</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202800</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Стратегия в тестировании</tit>
+<url>http://citforum.ru/SE/testing/strategy/</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202759</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Проектирование информационных систем | КомпьютерПресс</tit>
+<url>https://compress.ru/article.aspx?id=9794#09</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202759</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>TestLink — Традиция</tit>
+<url>http://traditio.wiki/TestLink</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202759</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Блог Ленивого Тестировщика: Начинаем работать с Testlink.</tit>
+<url>http://lazy-tester.blogspot.com/2013/05/testlink.html</url>
+<add>310819202759</add>
+<vis>310819202759</vis>
+<che>310819202800</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>урок 13-14</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 13 &nbsp;Ot testirovaniya k QA (tseli i zadachi QA, stoimost testirovaniya, stoimost defekta). &nbsp;</tit>
+<url>https://drive.google.com/open?id=1Gj-565NgqxAkHajrX3hoH0pzjXdZwE2j</url>
+<add>010919185621</add>
+<mod>010919185635</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 14 &nbsp;Requirements, vvedenie v bug tracking systems. _2</tit>
+<url>https://drive.google.com/open?id=1J79SZW18c_3Q8HDXC2a4IyW7zslABUoo</url>
+<add>010919185649</add>
+<mod>010919190348</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>урок 13-14</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Стоимость качества. Часть 1 – Что это такое? – Настройка операционной деятельности ИТ компаний. Аудиты, заказные программы, улучшение процессов.</tit>
+<url>http://it-tuning.com/2012/01/10/%d1%81%d1%82%d0%be%d0%b8%d0%bc%d0%be%d1%81%d1%82%d1%8c-%d0%ba%d0%b0%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d1%87%d0%b0%d1%81%d1%82%d1%8c-1-%e2%80%93-%d1%87%d1%82%d0%be-%d1%8d%d1%82%d0%be-%d1%82%d0%b0/</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203154</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Классическая философия качества</tit>
+<url>https://www.cfin.ru/management/iso9000/iso9000_classic.shtml</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Страница не найдена - IT-JOB.BY</tit>
+<url>https://it-job.by/article/career-in-it/943#.VheJsS7tmkp</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Относительные расходы на исправление багов - Getbug</tit>
+<url>http://getbug.ru/otnositelnyie-rashodyi-na-ispravlenie-bagov-istochnik-ibm-systems-sciences-institute/</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Обеспечение качества - Понятие Обеспечения Качества</tit>
+<url>http://www.protesting.ru/qa/articles/starting_qa.html</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Основные принципы управления качеством программного обеспечения - блог Вадима Савкина — LiveJournal</tit>
+<url>https://vsavkin.livejournal.com/6050.html</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Тестирование - Тестовое Покрытие</tit>
+<url>http://www.protesting.ru/testing/testcoverage.html</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203154</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Как правильно писать User Stories: руководство для разработчиков | Techrocks</tit>
+<url>https://techrocks.ru/2019/03/29/user-stories-writing/</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Writing Good Requirements – The Big Ten Rules | Tyner Blain</tit>
+<url>http://tynerblain.com/blog/2006/05/25/writing-good-requirements-the-big-ten-rules/</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Система отслеживания ошибок — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BE%D1%82%D1%81%D0%BB%D0%B5%D0%B6%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Требования к программным продуктам - функциональные, бизнес-требования - Компания ДПГруп</tit>
+<url>http://www.dpgrup.ru/software-requirements.htm</url>
+<add>310819203154</add>
+<vis>310819203154</vis>
+<che>310819203155</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 15 -16</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 15 &nbsp;Vvedenie v planirovanie (zadachi planirovaniya, test plan). &nbsp;_2</tit>
+<url>https://drive.google.com/open?id=1Z2vrAOgpwNFgWIafbTHPdrIZLLd0dpyQ</url>
+<add>010919185744</add>
+<mod>010919185805</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 16 QA protsesc, chast 1 (Initsializatsiya, tseli, prioritety, sroki, riski). _2</tit>
+<url>https://drive.google.com/open?id=107-91Ln3v9k6y4vzcXeRp69mXYqS9Meu</url>
+<add>010919185722</add>
+<mod>010919185740</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 15 -16</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Метод Тагучи</tit>
+<url>http://statistica.ru/local-portals/quality-control/funktsiya-poter-taguchi/</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Про Тестинг - Обеспечение качества - Создание, использование и анализ метрик</tit>
+<url>http://www.protesting.ru/qa/metrics.html</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Управление качеством</tit>
+<url>http://www.dist-cons.ru/modules/qualmanage/section2.html</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Тестовое Покрытие (Test Coverage). Критерии тестового покрытия в Тестировании ПО / Тестирование ПО / Тестирование Программного Обеспечения</tit>
+<url>https://software-testing.org/testing/testovoe-pokrytie-test-coverage-kriterii-testovogo-pokrytiya-v-testirovanii-po.html</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Tilda</tit>
+<url>https://kavichki.com/documents/Test_plan_example_OOO_Kavichki.pdf</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Планирование и оценка в SCRUM: основные задачи и советы по планированию</tit>
+<url>https://itkeys.org/planning-in-scrum/</url>
+<add>310819203420</add>
+<vis>310819203420</vis>
+<che>310819203421</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 17-18</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 17 &nbsp;QA protsess, chast 2 (Podgotovka, testirovanie, raportovanie, finalnaya faza). &nbsp;</tit>
+<url>https://drive.google.com/open?id=1Fznn6rYFz7rjkd0Ycd0XFlYj_dBlStyX</url>
+<add>010919185901</add>
+<mod>010919185919</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 18 &nbsp;Prakticheskoe zanyatie po QA protsessam, obzor MS Project. </tit>
+<url>https://drive.google.com/open?id=1HQ71iUAciOG2c4XU5aULdOq-nL8Mvm45</url>
+<add>010919185819</add>
+<mod>010919185847</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 17-18</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Про Тестинг - Обеспечение качества - Создание, использование и анализ метрик</tit>
+<url>http://www.protesting.ru/qa/metrics.html</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203617</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Принципы управления качеством программ | Открытые системы. СУБД | Издательство «Открытые системы»</tit>
+<url>http://www.osp.ru/os/2008/06/5344965/</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203618</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Обеспечение качества ПО и тестирование: что в них общего и различного?</tit>
+<url>https://itvdn.com/ru/blog/article/software-quality</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203617</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Решение для управления проектами | Microsoft Project</tit>
+<url>https://products.office.com/ru-ru/project/project-and-portfolio-management-software</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203617</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>MS Project: Самоучитель по Microsoft Project</tit>
+<url>https://lrn.no-ip.info/other/books/Book-Microsoft-Project_cleaned_html_in_pdf.pdf</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203622</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Microsoft Project — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/Microsoft_Project</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203617</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Использование MS Project для управления проектами по разработке ПО / Хабр</tit>
+<url>https://habr.com/ru/post/151593/</url>
+<add>310819203616</add>
+<vis>310819203616</vis>
+<che>310819203618</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 19-20</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 19 Testovoe zanyatie po proydennomu materialu_1</tit>
+<url>https://drive.google.com/open?id=1DkQYOzYQyCUECFpYKLM4hXoUMYyM1PWc</url>
+<add>010919185959</add>
+<mod>010919190013</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 20 Testirovanie spetsificheskikh oblastey Usability, I18NL10N, MLU, mobilnye ustroystva_1</tit>
+<url>https://drive.google.com/open?id=1xmdfH9IinyM4jufLunv2FYEsIPCtTVPf</url>
+<add>010919185935</add>
+<mod>010919185947</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 19-20</tit>
+<sta>5</sta>
+<node type=link>
+<tit>10 роковых ошибок юзабилити интернет-магазинов и кое-что ещё / Блог компании Mastercard / Хабр</tit>
+<url>https://habr.com/ru/company/mastercard/blog/261397/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203900</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Локализация по сравнению с интернационализацией</tit>
+<url>https://www.w3.org/International/questions/qa-i18n.ru.html</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>wayson.ru - This website is for sale! - wayson Resources and Information.</tit>
+<url>http://www.wayson.ru/blog/%D1%8E%D0%B7%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>10 эффективных инструментов для юзабилити-тестирования: обзор и сравнение / Блог компании Евростудио / Хабр</tit>
+<url>https://habr.com/ru/company/eurostudio/blog/109010/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Usability Test – QATestLab</tit>
+<url>https://qatestlab.com/resources/knowledge-center/sample-deliverables/usability-test-checklist/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>свайпы – Google Диск</tit>
+<url>https://drive.google.com/drive/u/0/folders/0B_SXnmXVP6nNY1FBRUlOaW9KS1k?amp%3Busp=sharing</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203900</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>С чего начать изучение UX и юзабилити: 20 полезных ресурсов — Офтоп на vc.ru</tit>
+<url>https://vc.ru/flood/4926-28-ux-resources-to-get-started</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Screen Sizes | Viewport Sizes and Pixel Densities for Popular Devices</tit>
+<url>http://screensiz.es/phone</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203900</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>HugeDomains.com - RenderMarket.com is for sale (Render Market)</tit>
+<url>https://www.hugedomains.com/domain_profile.cfm?d=rendermarket&amp;e=com</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203859</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Тестируем поля логин/пароль | Normal testing</tit>
+<url>https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203901</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>A Field Guide To Mobile App Testing — Smashing Magazine</tit>
+<url>https://www.smashingmagazine.com/2012/10/a-guide-to-mobile-app-testing/</url>
+<add>310819203858</add>
+<vis>310819203858</vis>
+<che>310819203900</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 21</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 21 Osobennosti testirovaniya veb-prilozheniy_2</tit>
+<url>https://drive.google.com/open?id=1IkqWhaE0CbraYSJINiqDX72VZa_LxOSW</url>
+<add>010919190028</add>
+<mod>010919190410</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 21</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Элемент интерфейса — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%B0</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204014</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Интересные уроки по теме сайтостроения для бизнеса</tit>
+<url>https://ruseller.com/lessons.php?rub=28&amp;amp;id=1965</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204014</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Тестирование верстки сайта by Alexandrit007 Same on Prezi</tit>
+<url>https://prezi.com/cxdohg-wd-j-/presentation/</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204015</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Чек-лист сохранения файла (негативные тесты) | Жизнь - это движение! А тестирование - это жизнь :)</tit>
+<url>http://okiseleva.blogspot.com/2013/03/blog-post_23.html</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204015</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать / Хабр</tit>
+<url>https://habr.com/ru/post/114256/</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204016</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Обзор инструментов тестирования кроссбраузерности вёрстки. Статьи о вёрстке. Проект "Открытые уроки"</tit>
+<url>http://old.avalon.ru/OpenLessons/WebDev/Lessons/testing-tools/</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204015</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Чит-лист по Web UI контролам от Игоря Любина — Testopedia</tit>
+<url>http://wiki.software-testing.ru/%D0%A7%D0%B8%D1%82-%D0%BB%D0%B8%D1%81%D1%82_%D0%BF%D0%BE_Web_UI_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%B0%D0%BC_%D0%BE%D1%82_%D0%98%D0%B3%D0%BE%D1%80%D1%8F_%D0%9B%D1%8E%D0%B1%D0%B8%D0%BD%D0%B0</url>
+<add>310819204013</add>
+<vis>310819204013</vis>
+<che>310819204014</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 22</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 22 Programmnoe obespechenie protsessa testirovaniya_1</tit>
+<url>https://drive.google.com/open?id=17l0z0vLd-2tReIsqmD1spfqLualTVPjr</url>
+<add>010919190057</add>
+<mod>010919190112</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 22</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Кухонные принадлежности в тестировании: или что выбрать из онлайн-ресурсов для тестирования продуктов? / Хабр</tit>
+<url>https://habr.com/ru/post/242025/</url>
+<add>310819204136</add>
+<vis>310819204136</vis>
+<che>310819204137</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Инструменты для тестирования сайта, где протестировать сайт? | Webtrafff.ru</tit>
+<url>http://webtrafff.ru/instrumenty-dlya-testirovaniya-sajta.html</url>
+<add>310819204136</add>
+<vis>310819204136</vis>
+<che>310819204137</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Bugs@Feature: Список видео SQA Days: инструменты в тестировании</tit>
+<url>https://rinauzhevko.blogspot.com/2015/08/sqa-days_7.html</url>
+<add>310819204136</add>
+<vis>310819204136</vis>
+<che>310819204137</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Обзор бесплатных инструментов для пентеста web-ресурсов и не только v2 / Хабр</tit>
+<url>https://habr.com/ru/post/125317/</url>
+<add>310819204136</add>
+<vis>310819204136</vis>
+<che>310819204138</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Урок 23-24</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 23 Obzor sredstv soprovozhdeniya protsessa razrabotki i testirovaniya (HP QC, Jira) </tit>
+<url>https://drive.google.com/open?id=1m4yUYkweczJuvR4b_4SSu-YmY7y-681k</url>
+<add>010919190125</add>
+<mod>010919190145</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>Урок 23-24</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Atlassian JIRA 6.2: Быть лучше, чем вчера / Хабр</tit>
+<url>https://habr.com/ru/post/213867/</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Application Life Cycle Management Tool – HP Quality Centre 11.0 for Beginners « Business Intelligence Testing - Learners Guide</tit>
+<url>https://asiketltestanalyst.wordpress.com/2014/01/14/application-life-cycle-management-tool-hp-quality-centre-11-0-for-beginners/</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>JIRA. Создаем проект, с чего начать? | Жизнь - это движение! А тестирование - это жизнь :)</tit>
+<url>http://okiseleva.blogspot.com/2013/03/jira.html</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Системы управления задачами - обзор на OnlineProjects</tit>
+<url>https://www.onlineprojects.ru/tags/sistemy_upravlenija_zadachami/</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204313</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Какая система управления задачами лучше — выбор ИТ-менеджеров и предпринимателей — Офтоп на vc.ru</tit>
+<url>https://vc.ru/flood/4038-task-management</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Обзор систем управления проектами / Хабр</tit>
+<url>https://habr.com/ru/post/173633/</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>zzet.org|Git. Просто Git. Лекция 1. Введение.</tit>
+<url>http://zzet.org/git/learning/undev/coursify/2014/02/09/lection-1-git-course-undev.html</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Mystat</tit>
+<url>https://mystat.itstep.org/404</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204313</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Система управления версиями — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Обзор систем контроля версий — "Все о Hi-Tech"</tit>
+<url>http://all-ht.ru/inf/prog/p_0_1.html</url>
+<add>310819204313</add>
+<vis>310819204313</vis>
+<che>310819204314</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>урок 25-26</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 25 &nbsp;Bazovye printsipy raboty s SVN _2</tit>
+<url>https://drive.google.com/open?id=11uLl3ZdFdWCT1Q_U0I6B3ZduDcWE7ljI</url>
+<add>030919143447</add>
+<mod>030919143551</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 26 &nbsp;Bazovye printsipy raboty s GIT</tit>
+<url>https://drive.google.com/open?id=1E-PrQqt3etKKX_hpq3K-rzxdCxpL2yXs</url>
+<add>030919143510</add>
+<mod>030919143542</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>25-26</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Работа с git для начинающих | Записки</tit>
+<url>http://blog.nsws.ru/rabota-s-git-dlya-nachinayushhix.html</url>
+<lcnt>1</lcnt>
+<add>030919143057</add>
+<vis>100919224659</vis>
+<che>030919143058</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Работа с Git.pdf</tit>
+<url>http://dev.call2ru.com/vs/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20Git.pdf</url>
+<add>100919235855</add>
+<vis>100919235855</vis>
+<che>100919235857</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Windows git SSH authentication to GitHub - Vlad Mihalcea</tit>
+<url>https://vladmihalcea.com/tutorials/git/windows-git-ssh-authentication-to-github/</url>
+<add>110919003457</add>
+<vis>110919003457</vis>
+<che>110919003504</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Настройки - TortoiseSVN</tit>
+<url>https://tortoisesvn.net/docs/release/TortoiseSVN_ru/</url>
+<lcnt>1</lcnt>
+<add>070919145719</add>
+<vis>100919224450</vis>
+<che>070919145721</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>svn - Начало работы с svn | svn Tutorial</tit>
+<url>https://riptutorial.com/ru/svn</url>
+<add>030919143057</add>
+<vis>030919143057</vis>
+<che>030919143101</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>SVN ( Subversion ) вся правда для новичка</tit>
+<url>http://yapro.ru/web-master/programs/svn.html</url>
+<add>030919143057</add>
+<vis>030919143057</vis>
+<che>030919143058</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Ежедневная работа с Git / Хабр</tit>
+<url>https://habr.com/ru/post/174467/</url>
+<add>030919143057</add>
+<vis>030919143057</vis>
+<che>030919143102</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
+<tit>Книги</tit>
+<sta>5</sta>
+<node type=folder>
+<tit>[quality handbook.pdf] 07.09.2019 15:10</tit>
+<sta>5</sta>
+<node type=link>
+<tit>quality handbook.pdf</tit>
+<url>https://gmpua.com/QM/Book/quality%20handbook.pdf</url>
+<add>070919151017</add>
+<vis>070919151017</vis>
+<che>070919151024</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Скачать Ключевые процессы тестирования. Планирование, подготовка, проведение, совершенствование - Блэк Р.</tit>
+<url>http://padabum.com/d.php?id=29844</url>
+<add>070919151017</add>
+<vis>070919151017</vis>
+<che>070919151020</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Kak_testiruyut_v_Google.pdf - Google Диск</tit>
+<url>https://drive.google.com/file/d/1-NZw5YrHTDk-LIxfuKOQYbfWNsCPLtDB/view</url>
+<add>070919151017</add>
+<vis>070919151017</vis>
+<che>070919151019</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>hero.lecturer.pens.ac.id/datahero/kuliah/MKPL/Software Quality Assurance From Theory to Implementation.pdf</tit>
+<url>http://hero.lecturer.pens.ac.id/datahero/kuliah/MKPL/Software%20Quality%20Assurance%20From%20Theory%20to%20Implementation.pdf</url>
+<add>070919151017</add>
+<vis>070919151017</vis>
+<che>070919151017</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Mobile Testing: Ready Reckoner</tit>
+<url>https://enjoytesting.files.wordpress.com/2013/10/mobile_testing_ready_reckoner.pdf</url>
+<lcnt>1</lcnt>
+<add>070919151017</add>
+<vis>070919151051</vis>
+<che>070919151019</che>
+<ipc>1</ipc>
+</node>
+</node>
+<node type=link>
+<tit>36 Days of Web Testing</tit>
+<url>http://thesocialtester.co.uk/wp-content/uploads/2012/10/36DaysOfWebTesting.pdf</url>
+<add>070919150052</add>
+<mod>070919150317</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Git - Book</tit>
+<url>https://git-scm.com/book/en/v2</url>
+<add>070919150115</add>
+<mod>070919150125</mod>
+<vis>070919150115</vis>
+<che>070919150115</che>
+</node>
+<node type=link>
+<tit>Mercurial: The Definitive Guide</tit>
+<url>http://hgbook.red-bean.com/read/</url>
+<add>070919150144</add>
+<mod>070919150148</mod>
+<vis>070919150144</vis>
+<che>070919150144</che>
+</node>
+<node type=link>
+<tit>Git from the bottom up</tit>
+<url>http://ftp.newartisans.com/pub/git.from.bottom.up.pdf</url>
+<add>070919150020</add>
+<mod>070919150047</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Subversion Version Control</tit>
+<url>http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf</url>
+<key>William Nagel</key>
+<add>070919145849</add>
+<mod>070919145949</mod>
+<ipc>1</ipc>
+</node>
+</node>
+
+</lmd>
