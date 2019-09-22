@@ -8,11 +8,19 @@
 <treeinfo>
 <tname>1111</tname>
 <add>310819170455</add>
+<<<<<<< HEAD
 <save>220919121724</save>
 <user>vitaliy</user>
 <computer>VITALIYPC</computer>
 <selectednode>урок 27-30</selectednode>
 <lastnode>158</lastnode>
+=======
+<save>140919230735</save>
+<user>vitaliy</user>
+<computer>VITALIYPC</computer>
+<selectednode>урок 7</selectednode>
+<lastnode>32</lastnode>
+>>>>>>> bae477b63a4003c3d8d455b7007d7dd2effddd37
 <minrating>1</minrating>
 <maxrating>5</maxrating>
 <col1>$00000075</col1>
@@ -1205,6 +1213,7 @@
 </node>
 </node>
 <node type=folder>
+<<<<<<< HEAD
 <tit>урок 27-30</tit>
 <node type=folder>
 <tit>[Как мы делали SCRUM / Хабр] 22.09.2019 12:16</tit>
@@ -1275,6 +1284,8 @@
 </node>
 </node>
 <node type=folder>
+=======
+>>>>>>> bae477b63a4003c3d8d455b7007d7dd2effddd37
 <tit>Книги</tit>
 <sta>5</sta>
 <node type=folder>
@@ -1361,6 +1372,7 @@
 <ipc>1</ipc>
 </node>
 </node>
+<<<<<<< HEAD
 <node type=folder>
 <tit>ссылки bugreport</tit>
 <sta>5</sta>
@@ -1417,5 +1429,7 @@
 <ipc>1</ipc>
 </node>
 </node>
+=======
+>>>>>>> bae477b63a4003c3d8d455b7007d7dd2effddd37
 
 </lmd>
