@@ -8,11 +8,11 @@
 <treeinfo>
 <tname>1111</tname>
 <add>310819170455</add>
-<save>290919125952</save>
+<save>290919131328</save>
 <user>vitaliy</user>
 <computer>DESKTOP-14LRSS6</computer>
-<selectednode>урок 27-30</selectednode>
-<lastnode>158</lastnode>
+<selectednode>Urok 31 Sertifikatsiya ISTQB. Obzor protsessa sertifikatsii, obzor materialov i trebovaniy. - kopiya_2||урок 31</selectednode>
+<lastnode>172</lastnode>
 <minrating>1</minrating>
 <maxrating>5</maxrating>
 <col1>$00000075</col1>
@@ -1204,10 +1204,40 @@
 </node>
 </node>
 </node>
-<node type=folder>
+<node type=folder expanded=yes>
 <tit>урок 27-30</tit>
+<sta>5</sta>
+<node type=link>
+<tit>Urok 27 &nbsp;Obzor metodologii SCRUM. Osobennosti SCRUM metodologii. Voprosy kommunikatsii vnutri komandy, s nachalstvom, s podchinennymi, s zakazchikami _1</tit>
+<url>https://drive.google.com/open?id=1r5ARUsCbqfTvjo_vszJAiIMTySW-Dzzb</url>
+<add>290919131008</add>
+<mod>290919131107</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 28. Komandnoe prakticheskoe zadanie._1</tit>
+<url>https://drive.google.com/open?id=1r_t9WwFC0F5jDU8rWvIxocdRW7qsRirs</url>
+<add>290919131117</add>
+<mod>290919131146</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 29. Komandnoe prakticheskoe zadanie</tit>
+<url>https://drive.google.com/open?id=1r46DLNHPwCC7gwVSudVv8MiNTW5YCgxw</url>
+<add>290919131109</add>
+<mod>290919131210</mod>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Urok 30. Komandnoe prakticheskoe zadanie</tit>
+<url>https://drive.google.com/open?id=1Q2BDMdIu0Vkp6uEDOuKlr1RcFsB6HI53</url>
+<add>290919131047</add>
+<mod>290919131237</mod>
+<ipc>1</ipc>
+</node>
 <node type=folder>
 <tit>[How to Test Overview | Testing] 29.09.2019 12:57</tit>
+<sta>5</sta>
 <node type=link>
 <tit>How to Test Overview | TestingSecurity.com</tit>
 <url>http://www.testingsecurity.com/how-to-test/overview</url>
@@ -1266,6 +1296,55 @@
 <add>290919125740</add>
 <vis>290919125740</vis>
 <che>290919125749</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder expanded=yes>
+<tit>урок 31</tit>
+<node type=link>
+<tit>Urok 31 Sertifikatsiya ISTQB. Obzor protsessa sertifikatsii, obzor materialov i trebovaniy. - kopiya_2</tit>
+<url>https://drive.google.com/open?id=17JMotvd8hbfvIi8Hm1_AfY73CyK0qsdS</url>
+<add>290919131257</add>
+<mod>290919131322</mod>
+<ipc>1</ipc>
+</node>
+<node type=folder>
+<tit>[Как я сдавал ISTQB Advanced Le] 29.09.2019 13:03</tit>
+<node type=link>
+<tit>Как я сдавал ISTQB Advanced Level | DOU</tit>
+<url>https://dou.ua/lenta/articles/ISTQB-advanced/</url>
+<des>Рассказ из первых рук: что делать, чтобы стать сертифицированным продвинутым тест-аналитиком, и как можно поймать баг в экзаменационной системе.</des>
+<add>290919130351</add>
+<vis>290919130351</vis>
+<che>290919130352</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Apache JMeter proxy Step-by-step</tit>
+<url>http://jmeter.apache.org/usermanual/jmeter_proxy_step_by_step.pdf</url>
+<add>290919130351</add>
+<vis>290919130351</vis>
+<che>290919130353</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>ISTQB Foundation Level Quiz - ProProfs Quiz</tit>
+<url>https://www.proprofs.com/quiz-school/story.php?title=istqb-foundation-level-practice-test-1_1</url>
+<des>The ISTQB exams are just around the corner and if you pass them all you get your certificate and freedom to practice your new found knowledge. Looking for revis...</des>
+<add>290919130351</add>
+<vis>290919130351</vis>
+<che>290919130353</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Сертификация QA специалиста по ISTQB. Базовый уровень (CTFL) / Блог компании Luxoft / Хабр</tit>
+<url>https://habr.com/ru/company/luxoft/blog/146064/</url>
+<des>Зачем нужна сертификация специалиста в области обеспечения качества программного обеспечения?<br>Главный ответ один — для подтверждения, что ваши знания соответствуют определённому уровню.<br>Всё...</des>
+<key>istqb,сертификация,QA,методика</key>
+<add>290919130351</add>
+<vis>290919130351</vis>
+<che>290919130353</che>
 <ipc>1</ipc>
 </node>
 </node>

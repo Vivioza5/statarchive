@@ -8,11 +8,11 @@
 <treeinfo>
 <tname>1111</tname>
 <add>310819170455</add>
-<save>290919131328</save>
+<save>290919133227</save>
 <user>vitaliy</user>
 <computer>DESKTOP-14LRSS6</computer>
-<selectednode>Urok 31 Sertifikatsiya ISTQB. Obzor protsessa sertifikatsii, obzor materialov i trebovaniy. - kopiya_2||урок 31</selectednode>
-<lastnode>172</lastnode>
+<selectednode>Книги</selectednode>
+<lastnode>178</lastnode>
 <minrating>1</minrating>
 <maxrating>5</maxrating>
 <col1>$00000075</col1>
@@ -1349,9 +1349,17 @@
 </node>
 </node>
 </node>
-<node type=folder>
+<node type=folder expanded=yes>
 <tit>Книги</tit>
 <sta>5</sta>
+<node type=link>
+<tit>9781906124762_Software Testing 2nd Edition.pdf</tit>
+<url>https://www.bcs.org/upload/pdf/software-testing2.pdf</url>
+<add>290919133006</add>
+<mod>290919133035</mod>
+<vis>290919133006</vis>
+<che>290919133006</che>
+</node>
 <node type=folder>
 <tit>[quality handbook.pdf] 07.09.2019 15:10</tit>
 <sta>5</sta>
