@@ -8,11 +8,11 @@
 <treeinfo>
 <tname>1111</tname>
 <add>310819170455</add>
-<save>220919115831</save>
+<save>290919125231</save>
 <user>vitaliy</user>
-<computer>VITALIYPC</computer>
-<selectednode>How to Test Overview | TestingSecurity.com||ссылки bugreport</selectednode>
-<lastnode>177</lastnode>
+<computer>DESKTOP-14LRSS6</computer>
+<selectednode>ссылки bugreport</selectednode>
+<lastnode>170</lastnode>
 <minrating>1</minrating>
 <maxrating>5</maxrating>
 <col1>$00000075</col1>
@@ -1291,7 +1291,7 @@
 <ipc>1</ipc>
 </node>
 </node>
-<node type=folder expanded=yes>
+<node type=folder>
 <tit>ссылки bugreport</tit>
 <sta>5</sta>
 <node type=folder>

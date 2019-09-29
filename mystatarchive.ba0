@@ -8,11 +8,11 @@
 <treeinfo>
 <tname>1111</tname>
 <add>310819170455</add>
-<save>220919121655</save>
+<save>290919125952</save>
 <user>vitaliy</user>
-<computer>VITALIYPC</computer>
-<selectednode>[Как мы делали SCRUM / Хабр] 22.09.2019 12:16||урок 27-30</selectednode>
-<lastnode>1</lastnode>
+<computer>DESKTOP-14LRSS6</computer>
+<selectednode>урок 27-30</selectednode>
+<lastnode>158</lastnode>
 <minrating>1</minrating>
 <maxrating>5</maxrating>
 <col1>$00000075</col1>
@@ -21,76 +21,6 @@
 <col4>$005E0000</col4>
 <col5>$00274F00</col5>
 </treeinfo>
-<node type=folder>
-<tit>урок 27-30</tit>
-<node type=folder>
-<tit>[Как мы делали SCRUM / Хабр] 22.09.2019 12:16</tit>
-<node type=link>
-<tit>Как мы делали SCRUM / Хабр</tit>
-<url>https://habr.com/ru/post/443914/</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121637</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>Основные законы создания команд разработчиков / Блог компании Edison / Хабр</tit>
-<url>https://habr.com/ru/company/edison/blog/272483/</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121637</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>blog.unusual-concepts.ru</tit>
-<url>https://blog.unusual-concepts.ru/2014/10/building-trust-with-personal-maps/?&amp;amp;tpwf_mode=main</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121652</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>Покер планирования — Википедия</tit>
-<url>https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B5%D1%80_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121637</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>6 простых способов усиления целостности внутри scrum команды | INT 21H</tit>
-<url>http://int-21.blogspot.com/2014/07/6-scrum.html</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121632</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>Scrum на простом языке | The Improved Methods</tit>
-<url>https://tim.com.ua/2009/06/scrum-na-prostom-yazyke/</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121637</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>How to Test Overview | TestingSecurity.com</tit>
-<url>http://www.testingsecurity.com/how-to-test/overview</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121632</che>
-<ipc>1</ipc>
-</node>
-<node type=link>
-<tit>Роли в скрам-процессе — Студопедия</tit>
-<url>https://studopedia.ru/10_182371_roli-v-skram-protsesse.html</url>
-<add>220919121631</add>
-<vis>220919121631</vis>
-<che>220919121636</che>
-<ipc>1</ipc>
-</node>
-</node>
-</node>
 <node type=folder>
 <tit>урок 1</tit>
 <sta>5</sta>
@@ -1194,7 +1124,7 @@
 </node>
 </node>
 </node>
-<node type=folder expanded=yes>
+<node type=folder>
 <tit>урок 25-26</tit>
 <sta>5</sta>
 <node type=link>
@@ -1274,7 +1204,73 @@
 </node>
 </node>
 </node>
-<node type=folder expanded=yes>
+<node type=folder>
+<tit>урок 27-30</tit>
+<node type=folder>
+<tit>[How to Test Overview | Testing] 29.09.2019 12:57</tit>
+<node type=link>
+<tit>How to Test Overview | TestingSecurity.com</tit>
+<url>http://www.testingsecurity.com/how-to-test/overview</url>
+<add>290919125739</add>
+<vis>290919125739</vis>
+<che>290919125741</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Основные законы создания команд разработчиков / Блог компании Edison / Хабр</tit>
+<url>https://habr.com/ru/company/edison/blog/272483/</url>
+<add>290919125739</add>
+<vis>290919125739</vis>
+<che>290919125749</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Scrum на простом языке | The Improved Methods</tit>
+<url>https://tim.com.ua/2009/06/scrum-na-prostom-yazyke/</url>
+<des>Последнее время меня часто спрашивают, что такое Scrum, люди, которые имеют весьма отдаленное отношение к ИТ. В связи с этим я решила объяснить простыми</des>
+<add>290919125740</add>
+<vis>290919125740</vis>
+<che>290919125750</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Покер планирования — Википедия</tit>
+<url>https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BA%D0%B5%D1%80_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F</url>
+<add>290919125740</add>
+<vis>290919125740</vis>
+<che>290919125749</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Как мы делали SCRUM / Хабр</tit>
+<url>https://habr.com/ru/post/443914/</url>
+<add>290919125740</add>
+<vis>290919125740</vis>
+<che>290919125749</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>6 простых способов усиления целостности внутри scrum команды | INT 21H</tit>
+<url>http://int-21.blogspot.com/2014/07/6-scrum.html</url>
+<des>scrum, управление программными проектами</des>
+<add>290919125740</add>
+<vis>290919125740</vis>
+<che>290919125741</che>
+<ipc>1</ipc>
+</node>
+<node type=link>
+<tit>Роли в скрам-процессе — Студопедия</tit>
+<url>https://studopedia.ru/10_182371_roli-v-skram-protsesse.html</url>
+<des>На Студопедии вы можете прочитать про: Роли в скрам-процессе. Подробнее...</des>
+<key>студопедия,школопедия,лекция,реферат,пособие,бесплатно,методичка</key>
+<add>290919125740</add>
+<vis>290919125740</vis>
+<che>290919125749</che>
+<ipc>1</ipc>
+</node>
+</node>
+</node>
+<node type=folder>
 <tit>Книги</tit>
 <sta>5</sta>
 <node type=folder>
